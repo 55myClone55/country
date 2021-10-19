@@ -1,0 +1,48 @@
+{ 
+    "data" : [ 
+      { 
+        "name" : "Africa" , 
+        "children" : [
+          "South Africa ",
+          "Angola ",
+          "Egypt "
+        ]
+       
+      },
+          { 
+            "name" : "South America" , 
+            "children" : [
+              "Peru ",
+              "Chile "
+            ] 
+          } , { 
+            "name" : "North America" , 
+            "children" : [
+              "Canada ",
+              "Mixico ",
+              "Usa "
+
+            ] 
+          } , { 
+            "name" : "Europe" , 
+            "children" : [
+              "Ukraine ",
+              "England "
+            ] 
+          } , 
+          { 
+            "name" : "Asia" , 
+            "children" : [
+              "China ",
+              "India "
+            ] 
+          } ,  { 
+            "name" : "Antarctica" , 
+            "children" : [
+              "Antarctica ",
+              "Bouvet Island "
+            ] 
+          } 
+        ]
+     
+  }
