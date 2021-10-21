@@ -4,7 +4,7 @@ import './App.css'
 
 let dataBase = Data.data;
 const PostData = ()=> {
-    let arr = {names:"string"}
+    let arr = {name:"string",children:[]}
     dataBase.push(arr)
     console.log(dataBase)
    

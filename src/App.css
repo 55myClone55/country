@@ -32,6 +32,23 @@
    color:rgb(13, 0, 130)
 
 }
+.new {
+    display:flexbox;
+    margin: 5px;
+    padding: 10px;
+    color:indigo
+}
+.active{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid grey;
+    border-radius:30px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 10px;
+    color:blueviolet
+
+}
 
 .Child-text{
     font-size: 18px;
